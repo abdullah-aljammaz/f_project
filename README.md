@@ -16,6 +16,7 @@ For our nightly builds:
 $ npm install -D typescript@next
 ```
 <hr>
+
 # Documentation
 
 * [node.js](https://nodejs.org/en)
