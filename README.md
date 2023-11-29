@@ -1,6 +1,6 @@
 <h2 align="center">Backend with express, And Github</h2>
 
-# Run TS File
+Run TS File
 ```bash
 $ npm run dev
 ```
