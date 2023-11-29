@@ -13,4 +13,5 @@ For our nightly builds:
 ```bash
 npm install -D typescript@next
 ```
+<hr>
 * [node.js](https://nodejs.org/en)
